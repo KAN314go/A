@@ -1,0 +1,13 @@
+玩家频道,http://58.99.33.16:1935/liveedge4/live_401_1.stream/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+彩虹R頻道,http://58.99.33.16:1935/liveedge4/live_408_1.stream/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+樂活頻道,http://58.99.33.16:1935/liveedge4/live_410_1.stream/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+潘朵拉玩美台,http://58.99.33.16:1935/liveedge4/live_411_1.stream/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+潘朵拉粉紅台,http://58.99.33.16:1935/liveedge4/live_412_1.stream/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+驚艷台,http://58.99.33.16:1935/liveedge4/live_413_1.stream/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+香蕉台,http://58.99.33.16:1935/liveedge4/live_414_1.stream/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+HAPPY頻道,http://58.99.33.16:1935/liveedge4/live_402_1.stream/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+HOT頻道,http://58.99.33.16:1935/liveedge4/live_403_1.stream/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+松視1,http://58.99.33.16:1935/liveedge4/live_405_1.stream/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+松視2,http://58.99.33.16:1935/liveedge4/live_406_1.stream/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+松視3,http://58.99.33.16:1935/liveedge4/live_407_1.stream/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+松視4,http://58.99.33.16:1935/liveedge4/live_404_1.stream/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=as
