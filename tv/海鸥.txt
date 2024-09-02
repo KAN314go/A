@@ -1,0 +1,76 @@
+﻿海鸥正式版4.5解密时间: 2024-09-02 19:28:21,#genre#
+服务器缓存 30-60分钟 左右,#genre#
+播放需要设置UA User-Agent: Lavf/58.12.100 ,#genre#
+香港频道,#genre#
+凤凰中文台,http://8.137.59.151:99/tui/haiou.php?id=121
+凤凰资讯台,http://8.137.59.151:99/tui/haiou.php?id=122
+凤凰香港台,http://8.137.59.151:99/tui/haiou.php?id=123
+TVB翡翠台,http://8.137.59.151:99/tui/haiou.php?id=188
+TVB无线新闻台,http://8.137.59.151:99/tui/haiou.php?id=2
+TVB跑马台,http://8.137.59.151:99/tui/haiou.php?id=4
+TVB Plus,http://8.137.59.151:99/tui/haiou.php?id=7
+TVB娱乐新闻台,http://8.137.59.151:99/tui/haiou.php?id=20
+TVB华丽翡翠台,http://8.137.59.151:99/tui/haiou.php?id=9
+TVB功夫台,http://8.137.59.151:99/tui/haiou.php?id=12
+now财经台,http://8.137.59.151:99/tui/haiou.php?id=28
+now星影台,http://8.137.59.151:99/tui/haiou.php?id=29
+now爆谷台,http://8.137.59.151:99/tui/haiou.php?id=30
+now SPORTS1,http://8.137.59.151:99/tui/haiou.php?id=31
+黄金华剧台,http://8.137.59.151:99/tui/haiou.php?id=24
+美亚电影台(粤),http://8.137.59.151:99/tui/haiou.php?id=25
+PopC,http://8.137.59.151:99/tui/haiou.php?id=38
+MyTV 亚洲剧台,http://8.137.59.151:99/tui/haiou.php?id=10
+MyTV 黄金翡翠台,http://8.137.59.151:99/tui/haiou.php?id=11
+MyTV 亚洲综合娱乐台,http://8.137.59.151:99/tui/haiou.php?id=15
+MyTV 亚洲综合娱乐台,http://8.137.59.151:99/tui/haiou.php?id=16
+MyTV 跑马台,http://8.137.59.151:99/tui/haiou.php?id=17
+MyTV 千禧经典台,http://8.137.59.151:99/tui/haiou.php?id=19
+MyTV 华语剧台,http://8.137.59.151:99/tui/haiou.php?id=22
+MyTV SuperFree,http://8.137.59.151:99/tui/haiou.php?id=8
+MyTV 粤语片台,http://8.137.59.151:99/tui/haiou.php?id=14
+ViuTV,http://8.137.59.151:99/tui/haiou.php?id=23
+ROCK综艺娱乐,http://8.137.59.151:99/tui/haiou.php?id=32
+ROCK超级娱乐,http://8.137.59.151:99/tui/haiou.php?id=33
+
+台湾频道,#genre#
+民视,http://8.137.59.151:99/tui/haiou.php?id=43
+台视,http://8.137.59.151:99/tui/haiou.php?id=44
+中视新闻,http://8.137.59.151:99/tui/haiou.php?id=45
+华视新闻,http://8.137.59.151:99/tui/haiou.php?id=46
+民视台湾台,http://8.137.59.151:99/tui/haiou.php?id=49
+民视第一台,http://8.137.59.151:99/tui/haiou.php?id=50
+三立台湾台,http://8.137.59.151:99/tui/haiou.php?id=52
+靖洋戏剧台,http://8.137.59.151:99/tui/haiou.php?id=53
+八大综合台,http://8.137.59.151:99/tui/haiou.php?id=55
+八大第一台,http://8.137.59.151:99/tui/haiou.php?id=56
+八大戏剧台,http://8.137.59.151:99/tui/haiou.php?id=57
+爱尔达影剧台,http://8.137.59.151:99/tui/haiou.php?id=59
+CN卡通,http://8.137.59.151:99/tui/haiou.php?id=65
+亚洲旅游台,http://8.137.59.151:99/tui/haiou.php?id=71
+爱尔达体育4台,http://8.137.59.151:99/tui/haiou.php?id=72
+探索频道,http://8.137.59.151:99/tui/haiou.php?id=73
+DMAX,http://8.137.59.151:99/tui/haiou.php?id=74
+东森LIVE,http://8.137.59.151:99/tui/haiou.php?id=75
+寰宇新闻,http://8.137.59.151:99/tui/haiou.php?id=76
+TVBS,http://8.137.59.151:99/tui/haiou.php?id=77
+TVBS新闻,http://8.137.59.151:99/tui/haiou.php?id=78
+中视新闻,http://8.137.59.151:99/tui/haiou.php?id=80
+台视新闻,http://8.137.59.151:99/tui/haiou.php?id=81
+民视新闻,http://8.137.59.151:99/tui/haiou.php?id=84
+龙祥时代,http://8.137.59.151:99/tui/haiou.php?id=85
+东森电影,http://8.137.59.151:99/tui/haiou.php?id=86
+东森洋片,http://8.137.59.151:99/tui/haiou.php?id=87
+好莱坞电影,http://8.137.59.151:99/tui/haiou.php?id=88
+龙华戏剧,http://8.137.59.151:99/tui/haiou.php?id=90
+龙华偶像,http://8.137.59.151:99/tui/haiou.php?id=91
+龙华洋片,http://8.137.59.151:99/tui/haiou.php?id=92
+龙华电影,http://8.137.59.151:99/tui/haiou.php?id=93
+美亚电影台(国),http://8.137.59.151:99/tui/haiou.php?id=94
+HBO,http://8.137.59.151:99/tui/haiou.php?id=95
+HBO HiTS,http://8.137.59.151:99/tui/haiou.php?id=96
+华纳电影台,http://8.137.59.151:99/tui/haiou.php?id=100
+MOVIES NOW,http://8.137.59.151:99/tui/haiou.php?id=101
+卫视电影,http://8.137.59.151:99/tui/haiou.php?id=102
+天映经典,http://8.137.59.151:99/tui/haiou.php?id=103
+
+
